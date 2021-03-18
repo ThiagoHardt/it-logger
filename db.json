@@ -1,17 +1,17 @@
 {
   "logs": [
     {
-      "message": "Change keyboard somewhere",
+      "id": 1,
+      "message": "Change keyboard somewhere!",
       "attention": true,
       "tech": "John Doe",
-      "date": "2021-03-18T10:59:47.285Z",
-      "id": 1
+      "date": "2021-03-18T11:44:30.381Z"
     },
     {
-      "message": "Test Log",
+      "message": "This is a test",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2021-03-18T11:14:33.427Z",
+      "date": "2021-03-18T11:42:45.390Z",
       "id": 2
     }
   ],
